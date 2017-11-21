@@ -1,7 +1,6 @@
 //La 13-14: https://www.aceptaelreto.com/problem/statement.php?id=370&cat=102
 
 #include <iostream>
-#include <string>
 
 using namespace std;
 
