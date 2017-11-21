@@ -1,7 +1,6 @@
-//Contando en la arena :https://www.aceptaelreto.com/problem/statement.php?id=369&cat=102
+//Contando en la arena: https://www.aceptaelreto.com/problem/statement.php?id=369&cat=102
 
 #include <iostream>
-#include <math.h>
 
 using namespace std;
 
